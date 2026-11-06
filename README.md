@@ -22,8 +22,8 @@ Data Structures/Algorithms:
   
 ## Contributors
 ## GUI:
-- Log-in Interface: Ashley Mission
-- Hospital Management Portal: Dana Orosco
+- Log-in Interface: Ashley Mae Mission
+- Hospital Management Portal: Dana Louisse Orosco
 - Patient Portl: Chrissa Macaraig
 - Doctor Portal: Bryce Carmelo Velasquez, Rogian Vargas
   
