@@ -19,7 +19,7 @@ public class Hospitalmanagement extends JFrame implements ActionListener{
         setLayout(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        //Header
+       
         hdrHospital = new JLabel("Hospital Management System");
         hdrHospital.setBounds(150, 40, 250, 30);
         add(hdrHospital);
