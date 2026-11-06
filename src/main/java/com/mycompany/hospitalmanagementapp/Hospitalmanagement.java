@@ -24,7 +24,7 @@ public class Hospitalmanagement extends JFrame implements ActionListener{
         hdrHospital.setBounds(150, 40, 250, 30);
         add(hdrHospital);
 
-        lblChooseRole = new JLabel("Please select your role:");
+        lblChooseRole = new JLabel("Please what you want to appoint:");
         lblChooseRole.setBounds(170, 100, 200, 30);
         add(lblChooseRole);
 
