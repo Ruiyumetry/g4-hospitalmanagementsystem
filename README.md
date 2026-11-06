@@ -21,13 +21,13 @@ Data Structures/Algorithms:
 - Use hashing for quick patient verification.
   
 ## Contributors
-# GUI:
+## GUI:
 - Log-in Interface: Ashley Mission
 - Hospital Management Portal: Dana Orosco
 - Patient Portl: Chrissa Macaraig
 - Doctor Portal: Bryce Carmelo Velasquez, Rogian Vargas
   
-# Database
+## Database
 - MySql: Chrissa Macaraig
   
 
