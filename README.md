@@ -1,5 +1,5 @@
 # Hospital Management System
-Github Repository for Group 4 - DSA
+Github Repository for Group 4 - Data Structures and Algorithms 
 
 ## Group Task
 Description: 
