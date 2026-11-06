@@ -163,32 +163,20 @@ public class doctorportal extends JFrame implements ActionListener{
     @Override
     public void actionPerformed(ActionEvent e) {
         if(e.getSource() == btnAddDoctor){
-            // TODO: add doctor
         }else if(e.getSource() == btnUpdateDoctor){
-            // TODO: update doctor
 
         }else if(e.getSource() == btnDeleteDoctor){
-            // TODO: delete doctor
         }else if(e.getSource() == btnSearchDoctor){
-            // TODO: search doctor
-
         }else if(e.getSource() == btnSearchPatient){
-            // TODO: search patient by ID or name
         }else if(e.getSource() == btnPatientRecord){
-            // TODO: show patient record and treatment history
 
         }else if(e.getSource() == btnTreatNext){
-            // TODO: treat next appointment in the queue
         }else if(e.getSource() == btnShowQueue){
-            // TODO: show appointment queue
 
         }else if(e.getSource() == btnMyPatients){
-            // TODO: list this doctor's patients
         }else if(e.getSource() == btnDoctorReport){
-            // TODO: generate doctor report
 
         }else if(e.getSource() == btnSummaryReport){
-            // TODO: generate summary report
         }else if(e.getSource() == btnResetForm){
             txtDoctorId.setText("");
             txtDoctorName.setText("");
