@@ -25,12 +25,12 @@ public class doctorportal extends JFrame implements ActionListener{
         setLayout(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        //Header
+       
         hdrDoctor = new JLabel("Doctor Portal");
         hdrDoctor.setBounds(350, 15, 200, 30);
         add(hdrDoctor);
 
-        //Profile Section
+        
         lblProfileSection = new JLabel("MY PROFILE");
         lblProfileSection.setBounds(50, 55, 200, 30);
         add(lblProfileSection);
@@ -75,7 +75,7 @@ public class doctorportal extends JFrame implements ActionListener{
         btnSearchDoctor.setBounds(296, 195, 77, 30);
         add(btnSearchDoctor);
 
-        //Patient Lookup Section
+        
         lblLookupSection = new JLabel("PATIENT LOOKUP");
         lblLookupSection.setBounds(50, 245, 200, 30);
         add(lblLookupSection);
@@ -96,7 +96,7 @@ public class doctorportal extends JFrame implements ActionListener{
         btnPatientRecord.setBounds(215, 315, 160, 30);
         add(btnPatientRecord);
 
-        //Appointment Queue Section
+        
         lblQueueSection = new JLabel("APPOINTMENT QUEUE");
         lblQueueSection.setBounds(470, 55, 250, 30);
         add(lblQueueSection);
@@ -137,13 +137,13 @@ public class doctorportal extends JFrame implements ActionListener{
         btnBack.setBounds(470, 245, 310, 30);
         add(btnBack);
 
-        //Output
+        
         txaOutput = new JTextArea();
         txaOutput.setBounds(50, 365, 730, 265);
         txaOutput.setEditable(false);
         add(txaOutput);
 
-        // Add to ActionListener
+        
         btnAddDoctor.addActionListener(this);
         btnUpdateDoctor.addActionListener(this);
         btnDeleteDoctor.addActionListener(this);
